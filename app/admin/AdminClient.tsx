@@ -400,7 +400,6 @@ export default function AdminClient({ initialArticles, initialIssues, initialAnn
                     <option>Физика</option>
                     <option>Химия</option>
                     <option>Биология</option>
-                    <option>Математика</option>
                     <option>Информатика</option>
                     <option>История</option>
                     <option>Экономика</option>
@@ -408,10 +407,10 @@ export default function AdminClient({ initialArticles, initialIssues, initialAnn
                     <option>Медицина</option>
                     <option>Право</option>
                     <option>Философия</option>
-                    <option>Социология</option>
+                    <option>Социальные науки</option>
                     <option>Сельскохозяйственные науки</option>
                     <option>Инжиниринг и технологии</option>
-                    <option>Гуманитарные науки</option>
+                    <option>Гуманитарные науки и искусство</option>
                   </select>
                 </FormField>
                 <FormField label="Язык">
