@@ -407,8 +407,10 @@ export default function AdminClient({ initialArticles, initialIssues, initialAnn
                     <option>Медицина</option>
                     <option>Право</option>
                     <option>Философия</option>
+                    <option>Естественные науки</option>
+                    <option>Медицина и здравоохранение</option>
                     <option>Социальные науки</option>
-                    <option>Сельскохозяйственные науки</option>
+                    <option>Сельскохозяйственные и ветеринарные науки</option>
                     <option>Инжиниринг и технологии</option>
                     <option>Гуманитарные науки и искусство</option>
                   </select>
